@@ -1,1 +1,2 @@
-git kursuna hoş geldiniz, umarım herkes için çok faydalı olur.
+git kursuna hoş geldiniz, umarım herkes için çok faydalı olur. 
+bu deste gitignore ögren
